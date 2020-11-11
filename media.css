@@ -1,0 +1,2954 @@
+@media screen and (max-width:1140px){
+    .plan .row .col-2:nth-child(2) img {
+        height: 100vh !important;
+    }
+
+    .plan .row .col-2 .col-4 {
+        flex-basis: 47% !important;
+    }
+
+    .download > .row > .col-2:nth-child(2) img{
+        margin-bottom: -160px !important;
+    }
+}
+
+@media screen and (max-width:1044px){
+    .row{
+        padding:30px 50px !important;
+        display: flex ;
+        justify-content: center !important;
+    }
+    
+
+    header .col-2:nth-child(1) img{
+        max-width: initial !important;
+        padding-left: 50px !important;
+    }
+
+    nav > ul {
+        position: absolute;
+        display: inline-block;
+        top: -35px;
+        right: -24px !important;
+    }
+
+    nav > ul > li:last-child {
+        margin:  10px !important;
+    }
+
+
+    header .col-2 h1 {
+        line-height: 60px !important;
+    }
+    
+    header .col-2 ul li{
+        margin: 0 !important;
+        padding: 15px !important;
+        text-align: center;
+        font-size: 16px !important;
+        line-height: 15px;
+    }
+
+    header .col-2 ul li a .fa{
+        font-size: 15px !important;
+    }
+
+    .col-5{
+        min-width: 150px !important;
+        flex-basis: 25% !important;
+        display: flex !important;
+        justify-content: center !important;
+    }
+    
+    .col-5 img{
+        margin-bottom: 40px !important;
+    }
+
+    main .container .row{
+        display:flex    ;
+        flex-direction: row-reverse !important;
+    }
+
+    .features .col-3 > img{
+        margin-left: 70px !important;
+        height: 60vh !important;
+
+    }
+
+
+    .jackpots .row .col .col-3{
+        flex-basis: 50% !important;
+    }
+
+    .jackpots .row .col .col-3{
+        display: flex !important;
+        justify-content: center !important;
+        flex-direction: column !important;
+        align-items: center !important;
+        margin-top: 20px !important;
+        text-align: center !important;
+    }
+
+    .jackpots .row .col:nth-child(3){
+        padding-top: 50px !important;
+    }
+    
+    .jackpots .row .col .col-2:nth-child(2) {
+        padding-left: 0 !important;
+    }
+
+    .plan .row .col-2 {
+        flex-basis: 100% !important;
+        display: flex;
+        justify-content: center !important;
+    }
+
+    .plan .row .col-2:nth-child(2) img{
+        height: auto !important;
+    }
+
+    .plan .row .col-2 .col-4 {
+    flex-basis: 50% !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+    }
+
+    .plan > .container > ul{
+        display: flex !important;
+        justify-content: center !important ;
+    }
+    
+    .plan > .container > ul li a{
+        margin-left: 0 !important;
+    }
+
+    .plan > .container > h2, .plan > .container > p {
+        text-align: center !important;
+        padding-left: 0 !important;
+    }
+
+    .client .row .col-2 {
+        flex-basis: 100% !important;
+    }
+
+
+    .download> .row > .col-2 {
+        flex-basis: 100% !important;
+    }
+
+
+    .download> .row > .col-2 > ul{
+        justify-content: center;
+    }
+
+    .download> .row > .col-2 p{
+        text-align: center !important ;
+    }
+
+
+
+    .download > .row > .col-2:nth-child(2) img {
+        max-width: initial !important;
+        margin-bottom: -260px !important;
+    }
+}
+
+
+@media screen and (max-width:1004px){
+    .row{
+        padding:30px 50px !important;
+        display: flex ;
+        justify-content: center !important;
+    }
+    
+
+    header .col-2:nth-child(1) img{
+        max-width: initial !important;
+        padding-left: 50px !important;
+    }
+
+    nav > ul {
+        position: absolute;
+        display: inline-block;
+        top: -35px;
+        right: -24px !important;
+    }
+
+    nav > ul > li:last-child {
+        margin:  10px !important;
+    }
+
+
+    header .col-2 h1 {
+        line-height: 60px !important;
+    }
+    
+    header .col-2 ul li{
+        margin: 0 !important;
+        padding: 15px !important;
+        text-align: center;
+        font-size: 16px !important;
+        line-height: 15px;
+    }
+
+    header .col-2 ul li a .fa{
+        font-size: 15px !important;
+    }
+
+    .col-5{
+        min-width: 150px !important;
+        flex-basis: 25% !important;
+        display: flex !important;
+        justify-content: center !important;
+    }
+    
+    .col-5 img{
+        margin-bottom: 40px !important;
+    }
+
+    main .container .row{
+        display:flex    ;
+        flex-direction: row-reverse !important;
+    }
+
+    .features .col-3 > img{
+        margin-left: 70px !important;
+    }
+
+
+    .jackpots .row .col .col-3{
+        flex-basis: 50% !important;
+    }
+
+    .jackpots .row .col .col-3{
+        display: flex !important;
+        justify-content: center !important;
+        flex-direction: column !important;
+        align-items: center !important;
+        margin-top: 20px !important;
+        text-align: center !important;
+    }
+
+    .jackpots .row .col:nth-child(3){
+        padding-top: 50px !important;
+    }
+    
+    .jackpots .row .col .col-2:nth-child(2) {
+        padding-left: 0 !important;
+    }
+
+    .plan .row .col-2 {
+        flex-basis: 100% !important;
+    }
+
+    .plan .row .col-2 .col-4 {
+    flex-basis: 50% !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+    }
+
+    .plan > .container > ul{
+        display: flex !important;
+        justify-content: center !important ;
+    }
+    
+    .plan > .container > ul li a{
+        margin-left: 0 !important;
+    }
+    .plan .row .col-2:nth-child(2) img{
+        height: auto !important;
+    }
+
+    .plan > .container > h2, .plan > .container > p {
+        text-align: center !important;
+    }
+
+    .client .row .col-2 {
+        flex-basis: 100% !important;
+    }
+
+
+    .download> .row > .col-2 {
+        flex-basis: 100% !important;
+    }
+
+
+    .download> .row > .col-2 > ul{
+        justify-content: center;
+    }
+
+    .download> .row > .col-2 p{
+        text-align: center !important ;
+    }
+
+
+
+    .download > .row > .col-2:nth-child(2) img {
+        max-width: initial !important;
+        margin-bottom: -260px !important;
+    }
+}
+
+@media only screen and (max-width: 800px){
+
+    .row{
+        padding:30px 50px !important;
+        display: flex ;
+        justify-content: center !important;
+    }
+    
+
+    header .col-2:nth-child(1) img{
+        max-width: initial !important;
+        padding-left: 50px !important;
+    }
+
+    nav > ul {
+        position: absolute;
+        display: inline-block;
+        top: -20px;
+        right: -24px !important;
+    }
+
+    nav > ul > li:last-child {
+        margin:  10px !important;
+    }
+
+    header .col-2:nth-child(2) img {
+        animation: none !important;
+    }
+
+
+    header .col-2 h1 {
+        line-height: 60px !important;
+    }
+    
+    header .col-2 ul li{
+        margin: 0 !important;
+        padding: 15px !important;
+        text-align: center;
+        font-size: 16px !important;
+        line-height: 15px;
+    }
+
+    header .col-2 ul li a .fa{
+        font-size: 15px !important;
+    }
+
+    .col-5{
+        min-width: 150px !important;
+        flex-basis: 25% !important;
+        display: flex !important;
+        justify-content: center !important;
+    }
+    
+    .col-5 img{
+        margin-bottom: 40px !important;
+    }
+
+    main .container .row{
+        display:flex    ;
+        flex-direction: row-reverse !important;
+    }
+
+    .features .col-3 > img{
+        height: 60vh !important;
+        margin-left: 70px !important;
+    }
+
+
+    .jackpots .row .col .col-3{
+        flex-basis: 50% !important;
+    }
+
+    .jackpots .row .col .col-3{
+        display: flex !important;
+        justify-content: center !important;
+        flex-direction: column !important;
+        align-items: center !important;
+        margin-top: 20px !important;
+    }
+
+    .jackpots .row .col:nth-child(3){
+        padding-top: 50px !important;
+    }
+    
+    .jackpots .row .col .col-2:nth-child(2) {
+        padding-left: 0 !important;
+    }
+
+    .plan .row .col-2 {
+        flex-basis: 100% !important;
+    }
+
+    .plan .row .col-2 .col-4 {
+    flex-basis: 50% !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+    }
+
+    .plan > .container > ul{
+        display: flex !important;
+        justify-content: center !important ;
+    }
+    
+    .plan > .container > ul li a{
+        margin-left: 0 !important;
+    }
+
+    .client .row .col-2 {
+        flex-basis: 100% !important;
+    }
+
+    .plan .row .col-2:nth-child(2) img{
+        height: auto !important;
+    }
+
+    .download> .row > .col-2 {
+        flex-basis: 100% !important;
+    }
+
+
+    .download> .row > .col-2 > ul{
+        justify-content: center;
+    }
+
+    .download> .row > .col-2 p{
+        text-align: center !important ;
+    }
+
+
+
+    .download > .row > .col-2:nth-child(2) img {
+        max-width: initial !important;
+        margin-bottom: -250px !important;
+    }
+
+}
+
+
+@media screen and (max-width:767px){
+
+        
+header .logo img{
+    width: 100px;
+}
+
+.row{
+    padding: 0 25px !important;
+    display: flex ;
+    justify-content: center !important;
+}
+
+.navbar nav ul {
+    width: 100%;
+    overflow-x: hidden;
+    transition: max-height .5s ;
+    display: flex !important;
+    flex-direction: column !important;
+    text-align: center;
+    background-color: rgb(253, 229, 180);
+    z-index: 22;
+    position: absolute !important;
+    top: 30px !important;
+    left: -35px;
+    background-color: rgb(253, 229, 180);
+    z-index: 22;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.navbar nav ul li{
+    margin-right: 0 !important;
+}
+
+nav > ul > li:hover::after{
+    max-width: 50% !important;
+}
+
+
+nav > ul > li:last-child {
+    margin: auto !important;
+    margin-bottom: 10px !important;
+    padding: 5px !important;
+}
+
+
+nav .menu-icon{
+    position: absolute !important;
+    top: -25px !important;
+    right: 0;
+    display: block !important;
+    cursor: pointer;
+}
+
+header .col-2{
+    flex-basis: 100% !important;
+    min-width: 200px !important;
+    padding: 0 !important;
+    display: flex;
+    flex-direction: column !important;
+    align-items: center !important;
+}
+
+header .col-2:nth-child(1) img{
+    padding: 0 !important;
+}
+
+
+
+header .col-2:nth-child(2) img{
+    transform: translateX(2px) !important;
+    max-width: 100%;
+    animation: none !important;
+}
+
+header .col-2 h1{
+    font-size: 35px !important;
+    line-height: 40px !important;
+    text-align: center !important;
+}
+
+
+header .col-2 p{
+    text-align: center !important;
+    padding-top: 20px !important;
+}
+
+
+header .col-2 ul li{
+    margin: 0 !important;
+    padding: 5px !important;
+    text-align: center;
+    font-size: 14px !important;
+    line-height: 15px;
+}
+
+header .col-2 ul li a .fa{
+    font-size: 12px !important;
+}
+
+
+/* === main-top starts ====  */
+
+.main-top .small-container p{
+    padding: 60px 0 30px !important;
+}
+
+.col-5{
+    min-width: 100px !important;
+    flex-basis: 50% !important;
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.col-5 img{
+    margin-bottom: 40px !important;
+}
+
+
+/* ------  features starts -------- */
+
+.features .col-3 {
+    flex-basis: 100% !important;
+    display: flex;
+    flex-direction: column !important;
+    align-items: center !important;
+    padding-top: 20px;
+}
+
+.features .col-3 > img{
+    height: auto  !important;
+}
+
+.features .col-3 > h2, p , h3{
+    text-align: center !important;
+    padding: 18px 0 !important;
+    line-height: initial !important;
+    font-size: initial !important;
+}
+
+.features .col-3 .items {
+    display: flex;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.features .col-3 .items .img img{
+    margin-right: 0 !important;
+    margin-top: 15px !important;
+}
+
+/* --------- jackpots starts ----------- */
+
+.jackpots .row .col h2{
+    text-align: center !important;
+    line-height: 50px !important;
+    padding-top: 60px;
+    padding-bottom: 20px !important;
+    padding-right: 0 !important;
+    font-size: initial !important;
+    line-height: initial !important;
+}
+
+.jackpots .row .col{
+    display: flex !important;
+    justify-content: center !important;
+    padding-top: 50px !important;
+}
+
+.jackpots .row .col div {
+    flex-basis: 100%  !important;
+}
+
+.jackpots .row .col:nth-child(1) div:nth-child(2){
+    text-align: center !important;
+    padding-top: 20px;
+    padding-left: 0 !important;
+    border-top: 1px solid #616368;
+    border-left: none !important;
+
+}
+
+
+.jackpots .row .col .col-3{
+    display: flex !important;
+    justify-content: center !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    margin-top: 20px !important;
+}
+
+.jackpots .row .col .col-2{
+    flex-basis: 100% !important;
+    padding: 0 !important;
+}
+
+
+.jackpots .row .col .col-2 {
+    display: flex;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+
+/* ---- -services starts ------- */
+
+.services > .container{
+    padding: 0 25px;
+}
+
+.services > .container > h2{
+    font-size: inherit !important;
+    line-height: inherit !important;
+    padding-top: 50px !important;
+    padding-bottom: 20px !important
+}
+
+
+.services > .container .row{
+    padding: 0 !important;
+}
+
+.services > .container .row .col-6{
+    flex-basis: 100% !important;
+}
+
+.services > .container .row .col-6 img{
+    margin-top: 40px !important;
+}
+
+
+/* ------ plan starts ------- */
+
+.plan .container{
+    padding: 0 25px !important ;
+}
+
+.plan .container h2, p{
+    text-align: center !important;
+    font-size: initial !important;
+    line-height: initial !important;
+    padding-left: 0 !important;
+}
+
+.plan .row .col-2, .col-4 {
+    flex-basis: 100% !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.plan .row .col-2:nth-child(2) img{
+    height: auto !important;
+}
+
+.plan > .container > ul{
+    display: flex !important;
+    justify-content: center !important ;
+}
+
+.plan > .container > ul li a{
+    margin-left: 0 !important;
+}
+
+
+/*  ---------  cost starts ------- */
+
+.cost .container{
+    padding: 0 25px !important ;
+}
+
+
+.cost .container h2, p{
+    text-align: center !important;
+    font-size: initial !important;
+    line-height: initial !important;
+    padding-left: 0 !important;
+}
+
+.cost > .container > ul > li > div{
+    padding: 10px !important;
+}
+
+.cost > .container > .row > .col-2{
+    flex-basis: 100% ;
+    margin-right: 0 !important;
+}
+
+.cost > .container  .row  .col-2    h4{
+    font-size: 30px !important;
+}
+
+.cost > .container  .row  .col-2    p, span{
+    font-size: initial !important;
+    line-height: initial !important;
+}
+
+
+
+
+
+
+/* ====== client starts ======== */
+
+.client .row .col-2 {
+    flex-basis: 100% !important;
+    padding: 0 !important;
+    display: flex ;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.client .row .col-2 h2{
+    text-align: center !important;
+    font-size: inherit !important;
+    line-height: inherit !important;
+    padding-top: 50px !important;
+    padding-bottom: 20px !important;
+    font-weight: 600 !important;
+}
+
+
+.client > .row > .col-2 > .ceo{
+    display: flex !important;
+    align-items: center !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+}
+
+
+.client > .row > .col-2 > .ceo h4, p ,ul{
+    position: initial !important;
+}
+
+
+.client > .row > .col-2  ul{
+    margin-left: 20px !important;
+}
+
+
+
+/*  ========= faq starts ========== */
+
+.faq > .container > h2 {
+    font-weight: 600 !important;
+    text-align: center !important;
+    font-size: inherit !important;
+    line-height: inherit !important;
+    padding-top: 50px !important;
+    padding-bottom: 20px !important;
+}
+
+.faq > .container > p{
+    text-align: center !important;
+    font-size: inherit !important;
+    line-height: inherit !important;
+}
+
+.accordian-item {
+    padding: 20px !important;
+}
+
+
+.accordian-link{
+    font-size: initial !important;
+}
+
+.answer{
+    overflow: unset !important;
+    overflow-x: hidden !important;
+}
+
+
+.add, .remove{
+    font-size: initial !important;
+}
+
+
+/* ===== download starts -===== */
+
+.download> .row > .col-2 h2{
+    font-weight: 600 !important;
+    text-align: center !important;
+    font-size: inherit !important;
+    line-height: inherit !important;
+    padding-top: 50px !important;
+    padding-bottom: 20px !important;
+}
+
+.download> .row > .col-2 {
+    flex-basis: 100% !important;
+}
+
+.download> .row > .col-2 > ul{
+    justify-content: center;
+    flex-wrap: nowrap !important;
+}
+
+
+.download > .row > .col-2:nth-child(2) img {
+    margin-bottom: -235px !important;
+}
+
+
+
+
+/* =======  footer starts -====== */
+
+
+footer img{
+    width: 150px !important;
+}
+
+footer ul li a ion-icon {
+    font-size: 30px !important;
+}
+
+
+footer p{
+    padding: 10px !important ;
+}
+ 
+}
+
+@media screen and (max-width:750px){
+    .download > .row > .col-2:nth-child(2) img {
+        margin-bottom: -160px !important;
+    }
+}
+
+
+@media screen and (max-width:501px){
+       
+header .logo img{
+    width: 100px;
+}
+
+.row{
+    padding: 0 25px !important;
+    display: flex ;
+    justify-content: center !important;
+}
+
+.navbar nav ul {
+    position: absolute !important;
+    top: 30px !important;
+    left: -35px;
+    background-color: rgb(253, 229, 180);
+    z-index: 22;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.navbar nav ul li{
+    margin-right: 0 !important;
+}
+
+nav > ul > li:hover::after{
+    max-width: 50% !important;
+}
+
+
+nav > ul > li:last-child {
+    margin: auto !important;
+    margin-bottom: 10px !important;
+    padding: 5px !important;
+}
+
+
+nav .menu-icon{
+    position: absolute !important;
+    top: -25px !important;
+    right: 0;
+}
+
+header .col-2{
+    flex-basis: 100% !important;
+    min-width: 200px !important;
+    padding: 0 !important;
+    display: flex;
+    flex-direction: column !important;
+    align-items: center !important;
+}
+
+header .col-2:nth-child(1) img{
+    padding: 0 !important;
+}
+
+
+
+header .col-2:nth-child(2) img{
+    transform: translateX(2px) !important;
+    max-width: 100%;
+    animation: none !important;
+}
+
+header .col-2 h1{
+    font-size: 35px !important;
+    line-height: 40px !important;
+    text-align: center !important;
+}
+
+
+header .col-2 p{
+    text-align: center !important;
+    padding-top: 20px !important;
+}
+
+
+header .col-2 ul li{
+    margin: 0 !important;
+    padding: 5px !important;
+    text-align: center;
+    font-size: 14px !important;
+    line-height: 15px;
+}
+
+header .col-2 ul li a .fa{
+    font-size: 12px !important;
+}
+
+
+/* === main-top starts ====  */
+
+.main-top .small-container p{
+    padding: 60px 0 30px !important;
+}
+
+.col-5{
+    min-width: 100px !important;
+    flex-basis: 50% !important;
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.col-5 img{
+    margin-bottom: 40px !important;
+}
+
+
+/* ------  features starts -------- */
+
+.features .col-3 {
+    flex-basis: 100% !important;
+}
+
+.features .col-3 > img{
+    height: auto  !important;
+}
+
+.features .col-3 > h2, p , h3{
+    text-align: center !important;
+    padding: 18px 0 !important;
+    line-height: initial !important;
+    font-size: initial !important;
+}
+
+.features .col-3 .items {
+    display: flex;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.features .col-3 .items .img img{
+    margin-right: 0 !important;
+    margin-top: 15px !important;
+}
+
+/* --------- jackpots starts ----------- */
+
+.jackpots .row .col h2{
+    text-align: center !important;
+    line-height: 50px !important;
+    padding-top: 60px;
+    padding-bottom: 20px !important;
+    padding-right: 0 !important;
+    font-size: initial !important;
+    line-height: initial !important;
+}
+
+.jackpots .row .col{
+    display: flex !important;
+    justify-content: center !important;
+    padding-top: 50px !important;
+}
+
+.jackpots .row .col div {
+    flex-basis: 100%  !important;
+}
+
+.jackpots .row .col:nth-child(1) div:nth-child(2){
+    text-align: center !important;
+    padding-top: 20px;
+    padding-left: 0 !important;
+    border-top: 1px solid #616368;
+    border-left: none !important;
+
+}
+
+
+.jackpots .row .col .col-3{
+    display: flex !important;
+    justify-content: center !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    margin-top: 20px !important;
+}
+
+.jackpots .row .col .col-2{
+    flex-basis: 100% !important;
+    padding: 0 !important;
+}
+
+
+.jackpots .row .col .col-2 {
+    display: flex;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+
+/* ---- -services starts ------- */
+
+.services > .container{
+    padding: 0 25px;
+}
+
+.services > .container > h2{
+    font-size: inherit !important;
+    line-height: inherit !important;
+    padding-top: 50px !important;
+    padding-bottom: 20px !important
+}
+
+
+.services > .container .row{
+    padding: 0 !important;
+}
+
+.services > .container .row .col-6{
+    flex-basis: 100% !important;
+}
+
+.services > .container .row .col-6 img{
+    margin-top: 40px !important;
+}
+
+
+/* ------ plan starts ------- */
+
+.plan .container{
+    padding: 0 25px !important ;
+}
+
+.plan .row .col-2:nth-child(2) img{
+    height: auto !important;
+}
+
+.plan .container h2, p{
+    text-align: center !important;
+    font-size: initial !important;
+    line-height: initial !important;
+    padding-left: 0 !important;
+}
+
+.plan .row .col-2, .col-4 {
+    flex-basis: 100% !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+
+.plan > .container > ul{
+    display: flex !important;
+    justify-content: center !important ;
+}
+
+.plan > .container > ul li a{
+    margin-left: 0 !important;
+}
+
+
+/*  ---------  cost starts ------- */
+
+.cost .container{
+    padding: 0 25px !important ;
+}
+
+
+.cost .container h2, p{
+    text-align: center !important;
+    font-size: initial !important;
+    line-height: initial !important;
+    padding-left: 0 !important;
+}
+
+.cost > .container > ul > li > div{
+    padding: 10px !important;
+}
+
+.cost > .container > .row > .col-2{
+    flex-basis: 100% ;
+    margin-right: 0 !important;
+}
+
+.cost > .container  .row  .col-2    h4{
+    font-size: 30px !important;
+}
+
+.cost > .container  .row  .col-2    p, span{
+    font-size: initial !important;
+    line-height: initial !important;
+}
+
+
+
+
+
+
+/* ====== client starts ======== */
+
+.client .row .col-2 {
+    flex-basis: 100% !important;
+    padding: 0 !important;
+    display: flex ;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.client .row .col-2 h2{
+    text-align: center !important;
+    font-size: inherit !important;
+    line-height: inherit !important;
+    padding-top: 50px !important;
+    padding-bottom: 20px !important;
+    font-weight: 600 !important;
+}
+
+
+.client > .row > .col-2 > .ceo{
+    display: flex !important;
+    align-items: center !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+}
+
+
+.client > .row > .col-2 > .ceo h4, p ,ul{
+    position: initial !important;
+}
+
+
+.client > .row > .col-2  ul{
+    margin-left: 20px !important;
+}
+
+
+
+/*  ========= faq starts ========== */
+
+.faq > .container > h2 {
+    font-weight: 600 !important;
+    text-align: center !important;
+    font-size: inherit !important;
+    line-height: inherit !important;
+    padding-top: 50px !important;
+    padding-bottom: 20px !important;
+}
+
+.faq > .container > p{
+    text-align: center !important;
+    font-size: inherit !important;
+    line-height: inherit !important;
+}
+
+.accordian-item {
+    padding: 20px !important;
+}
+
+
+.accordian-link{
+    font-size: initial !important;
+}
+
+.answer{
+    overflow: unset !important;
+    overflow-x: hidden !important;
+}
+
+
+.add, .remove{
+    font-size: initial !important;
+}
+
+
+/* ===== download starts -===== */
+
+.download> .row > .col-2 h2{
+    font-weight: 600 !important;
+    text-align: center !important;
+    font-size: inherit !important;
+    line-height: inherit !important;
+    padding-top: 50px !important;
+    padding-bottom: 20px !important;
+}
+
+.download> .row > .col-2 {
+    flex-basis: 100% !important;
+}
+
+.download> .row > .col-2 > ul{
+    justify-content: center;
+    flex-wrap: nowrap !important;
+}
+
+
+.download > .row > .col-2:nth-child(2) img {
+    margin-bottom: -148px !important;
+}
+
+
+
+
+/* =======  footer starts -====== */
+
+
+footer img{
+    width: 150px !important;
+}
+
+footer ul li a ion-icon {
+    font-size: 30px !important;
+}
+
+
+footer p{
+    padding: 10px !important ;
+}
+
+}
+
+
+@media screen and (max-width:460px){
+    
+header .logo img{
+    width: 100px;
+}
+
+.row{
+    padding: 0 25px !important;
+    display: flex ;
+    justify-content: center !important;
+}
+
+.navbar nav ul {
+    position: absolute !important;
+    top: 30px !important;
+    left: -35px;
+    background-color: rgb(253, 229, 180);
+    z-index: 22;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.navbar nav ul li{
+    margin-right: 0 !important;
+}
+
+nav > ul > li:hover::after{
+    max-width: 50% !important;
+}
+
+
+nav > ul > li:last-child {
+    margin: auto !important;
+    margin-bottom: 10px !important;
+    padding: 5px !important;
+}
+
+
+nav .menu-icon{
+    position: absolute !important;
+    top: -25px !important;
+    right: 0;
+}
+
+header .col-2{
+    flex-basis: 100% !important;
+    min-width: 200px !important;
+    padding: 0 !important;
+    display: flex;
+    flex-direction: column !important;
+    align-items: center !important;
+}
+
+header .col-2:nth-child(1) img{
+    padding: 0 !important;
+}
+
+
+
+header .col-2:nth-child(2) img{
+    transform: translateX(2px) !important;
+    max-width: 100%;
+    animation: none !important;
+}
+
+header .col-2 h1{
+    font-size: 35px !important;
+    line-height: 40px !important;
+    text-align: center !important;
+}
+
+
+header .col-2 p{
+    text-align: center !important;
+    padding-top: 20px !important;
+}
+
+
+header .col-2 ul li{
+    margin: 0 !important;
+    padding: 5px !important;
+    text-align: center;
+    font-size: 14px !important;
+    line-height: 15px;
+}
+
+header .col-2 ul li a .fa{
+    font-size: 12px !important;
+}
+
+
+/* === main-top starts ====  */
+
+.main-top .small-container p{
+    padding: 60px 0 30px !important;
+}
+
+.col-5{
+    min-width: 100px !important;
+    flex-basis: 50% !important;
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.col-5 img{
+    margin-bottom: 40px !important;
+}
+
+
+/* ------  features starts -------- */
+
+.features .col-3 {
+    flex-basis: 100% !important;
+}
+
+.features .col-3 > img{
+    height: auto  !important;
+}
+
+.features .col-3 > h2, p , h3{
+    text-align: center !important;
+    padding: 18px 0 !important;
+    line-height: initial !important;
+    font-size: initial !important;
+}
+
+.features .col-3 .items {
+    display: flex;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.features .col-3 .items .img img{
+    margin-right: 0 !important;
+    margin-top: 15px !important;
+}
+
+/* --------- jackpots starts ----------- */
+
+.jackpots .row .col h2{
+    text-align: center !important;
+    line-height: 50px !important;
+    padding-top: 60px;
+    padding-bottom: 20px !important;
+    padding-right: 0 !important;
+    font-size: initial !important;
+    line-height: initial !important;
+}
+
+.jackpots .row .col{
+    display: flex !important;
+    justify-content: center !important;
+    padding-top: 50px !important;
+}
+
+.jackpots .row .col div {
+    flex-basis: 100%  !important;
+}
+
+.jackpots .row .col:nth-child(1) div:nth-child(2){
+    text-align: center !important;
+    padding-top: 20px;
+    padding-left: 0 !important;
+    border-top: 1px solid #616368;
+    border-left: none !important;
+
+}
+
+
+.jackpots .row .col .col-3{
+    display: flex !important;
+    justify-content: center !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    margin-top: 20px !important;
+}
+
+.jackpots .row .col .col-2{
+    flex-basis: 100% !important;
+    padding: 0 !important;
+}
+
+
+.jackpots .row .col .col-2 {
+    display: flex;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+
+/* ---- -services starts ------- */
+
+.services > .container{
+    padding: 0 25px;
+}
+
+.services > .container > h2{
+    font-size: inherit !important;
+    line-height: inherit !important;
+    padding-top: 50px !important;
+    padding-bottom: 20px !important
+}
+
+
+.services > .container .row{
+    padding: 0 !important;
+}
+
+.services > .container .row .col-6{
+    flex-basis: 100% !important;
+}
+
+.services > .container .row .col-6 img{
+    margin-top: 40px !important;
+}
+
+
+/* ------ plan starts ------- */
+
+.plan .container{
+    padding: 0 25px !important ;
+}
+
+.plan .container h2, p{
+    text-align: center !important;
+    font-size: initial !important;
+    line-height: initial !important;
+    padding-left: 0 !important;
+}
+
+.plan .row .col-2, .col-4 {
+    flex-basis: 100% !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+
+.plan > .container > ul{
+    display: flex !important;
+    justify-content: center !important ;
+}
+
+.plan > .container > ul li a{
+    margin-left: 0 !important;
+}
+
+.plan .row .col-2:nth-child(2) img{
+    height: auto !important;
+}
+
+
+/*  ---------  cost starts ------- */
+
+.cost .container{
+    padding: 0 25px !important ;
+}
+
+
+.cost .container h2, p{
+    text-align: center !important;
+    font-size: initial !important;
+    line-height: initial !important;
+    padding-left: 0 !important;
+}
+
+.cost > .container > ul > li > div{
+    padding: 10px !important;
+}
+
+.cost > .container > .row > .col-2{
+    flex-basis: 100% ;
+    margin-right: 0 !important;
+}
+
+.cost > .container  .row  .col-2    h4{
+    font-size: 30px !important;
+}
+
+.cost > .container  .row  .col-2    p, span{
+    font-size: initial !important;
+    line-height: initial !important;
+}
+
+
+
+
+
+
+/* ====== client starts ======== */
+
+.client .row .col-2 {
+    flex-basis: 100% !important;
+    padding: 0 !important;
+    display: flex ;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.client .row .col-2 h2{
+    text-align: center !important;
+    font-size: inherit !important;
+    line-height: inherit !important;
+    padding-top: 50px !important;
+    padding-bottom: 20px !important;
+    font-weight: 600 !important;
+}
+
+
+.client > .row > .col-2 > .ceo{
+    display: flex !important;
+    align-items: center !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+}
+
+
+.client > .row > .col-2 > .ceo h4, p ,ul{
+    position: initial !important;
+}
+
+
+.client > .row > .col-2  ul{
+    margin-left: 20px !important;
+}
+
+
+
+/*  ========= faq starts ========== */
+
+.faq > .container > h2 {
+    font-weight: 600 !important;
+    text-align: center !important;
+    font-size: inherit !important;
+    line-height: inherit !important;
+    padding-top: 50px !important;
+    padding-bottom: 20px !important;
+}
+
+.faq > .container > p{
+    text-align: center !important;
+    font-size: inherit !important;
+    line-height: inherit !important;
+}
+
+.accordian-item {
+    padding: 20px !important;
+}
+
+
+.accordian-link{
+    font-size: initial !important;
+}
+
+.answer{
+    overflow: unset !important;
+    overflow-x: hidden !important;
+}
+
+
+.add, .remove{
+    font-size: 40px !important;
+}
+
+
+/* ===== download starts -===== */
+
+.download> .row > .col-2 h2{
+    font-weight: 600 !important;
+    text-align: center !important;
+    font-size: inherit !important;
+    line-height: inherit !important;
+    padding-top: 50px !important;
+    padding-bottom: 20px !important;
+}
+
+.download> .row > .col-2 {
+    flex-basis: 100% !important;
+}
+
+.download> .row > .col-2 > ul{
+    justify-content: center;
+    flex-wrap: nowrap !important;
+}
+
+
+.download > .row > .col-2:nth-child(2) img {
+    margin-bottom: -120px !important;
+}
+
+
+
+
+/* =======  footer starts -====== */
+
+
+footer img{
+    width: 150px !important;
+}
+
+footer ul li a ion-icon {
+    font-size: 30px !important;
+}
+
+
+footer p{
+    padding: 10px !important ;
+}
+
+
+}
+
+
+
+@media screen and (max-width:400px){
+    
+header .logo img{
+    width: 100px;
+}
+
+.row{
+    padding: 0 25px !important;
+    display: flex ;
+    justify-content: center !important;
+}
+
+.navbar nav ul {
+    position: absolute !important;
+    top: 30px !important;
+    left: -35px;
+    background-color: rgb(253, 229, 180);
+    z-index: 22;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.navbar nav ul li{
+    margin-right: 0 !important;
+}
+
+nav > ul > li:hover::after{
+    max-width: 50% !important;
+}
+
+
+nav > ul > li:last-child {
+    margin: auto !important;
+    margin-bottom: 10px !important;
+    padding: 5px !important;
+}
+
+
+nav .menu-icon{
+    position: absolute !important;
+    top: -25px !important;
+    right: 0;
+}
+
+header .col-2{
+    flex-basis: 100% !important;
+    min-width: 200px !important;
+    padding: 0 !important;
+}
+
+header .col-2:nth-child(1) img{
+    padding: 0 !important;
+}
+
+
+
+header .col-2:nth-child(2) img{
+    transform: translateX(2px) !important;
+    max-width: 100%;
+    animation: none !important;
+}
+
+header .col-2 h1{
+    font-size: 35px !important;
+    line-height: 40px !important;
+    text-align: center !important;
+}
+
+
+header .col-2 p{
+    text-align: center !important;
+    padding-top: 20px !important;
+}
+
+
+header .col-2 ul li{
+    margin: 0 !important;
+    padding: 5px !important;
+    text-align: center;
+    font-size: 14px !important;
+    line-height: 15px;
+}
+
+header .col-2 ul li a .fa{
+    font-size: 12px !important;
+}
+
+
+/* === main-top starts ====  */
+
+.main-top .small-container p{
+    padding: 60px 0 30px !important;
+}
+
+.col-5{
+    min-width: 100px !important;
+    flex-basis: 50% !important;
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.col-5 img{
+    margin-bottom: 40px !important;
+}
+
+
+/* ------  features starts -------- */
+
+.features .col-3 {
+    flex-basis: 100% !important;
+}
+
+.features .col-3 > img{
+    height: auto  !important;
+}
+
+.features .col-3 > h2, p , h3{
+    text-align: center !important;
+    padding: 18px 0 !important;
+    line-height: initial !important;
+    font-size: initial !important;
+}
+
+.features .col-3 .items {
+    display: flex;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.features .col-3 .items .img img{
+    margin-right: 0 !important;
+    margin-top: 15px !important;
+}
+
+/* --------- jackpots starts ----------- */
+
+.jackpots .row .col h2{
+    text-align: center !important;
+    line-height: 50px !important;
+    padding-top: 60px;
+    padding-bottom: 20px !important;
+    padding-right: 0 !important;
+    font-size: initial !important;
+    line-height: initial !important;
+}
+
+.jackpots .row .col{
+    display: flex !important;
+    justify-content: center !important;
+    padding-top: 50px !important;
+}
+
+.jackpots .row .col div {
+    flex-basis: 100%  !important;
+}
+
+.jackpots .row .col:nth-child(1) div:nth-child(2){
+    text-align: center !important;
+    padding-top: 20px;
+    padding-left: 0 !important;
+    border-top: 1px solid #616368;
+    border-left: none !important;
+
+}
+
+
+.jackpots .row .col .col-3{
+    display: flex !important;
+    justify-content: center !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    margin-top: 20px !important;
+}
+
+.jackpots .row .col .col-2{
+    flex-basis: 100% !important;
+    padding: 0 !important;
+}
+
+
+.jackpots .row .col .col-2 {
+    display: flex;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+
+/* ---- -services starts ------- */
+
+.services > .container{
+    padding: 0 25px;
+}
+
+.services > .container > h2{
+    font-size: inherit !important;
+    line-height: inherit !important;
+    padding-top: 50px !important;
+    padding-bottom: 20px !important
+}
+
+
+.services > .container .row{
+    padding: 0 !important;
+}
+
+.services > .container .row .col-6{
+    flex-basis: 100% !important;
+}
+
+.services > .container .row .col-6 img{
+    margin-top: 40px !important;
+}
+
+
+/* ------ plan starts ------- */
+
+.plan .container{
+    padding: 0 25px !important ;
+}
+
+.plan .container h2, p{
+    text-align: center !important;
+    font-size: initial !important;
+    line-height: initial !important;
+    padding-left: 0 !important;
+}
+
+.plan .row .col-2, .col-4 {
+    flex-basis: 100% !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+
+.plan > .container > ul{
+    display: flex !important;
+    justify-content: center !important ;
+}
+
+.plan > .container > ul li a{
+    margin-left: 0 !important;
+}
+
+.plan .row .col-2:nth-child(2) img{
+    height: auto !important;
+}
+
+/*  ---------  cost starts ------- */
+
+.cost .container{
+    padding: 0 25px !important ;
+}
+
+
+.cost .container h2, p{
+    text-align: center !important;
+    font-size: initial !important;
+    line-height: initial !important;
+    padding-left: 0 !important;
+}
+
+.cost > .container > ul > li > div{
+    padding: 10px !important;
+}
+
+.cost > .container > .row > .col-2{
+    flex-basis: 100% ;
+    margin-right: 0 !important;
+}
+
+.cost > .container  .row  .col-2    h4{
+    font-size: 30px !important;
+}
+
+.cost > .container  .row  .col-2    p, span{
+    font-size: initial !important;
+    line-height: initial !important;
+}
+
+
+
+
+
+
+/* ====== client starts ======== */
+
+.client .row .col-2 {
+    flex-basis: 100% !important;
+    padding: 0 !important;
+    display: flex ;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.client .row .col-2 h2{
+    text-align: center !important;
+    font-size: inherit !important;
+    line-height: inherit !important;
+    padding-top: 50px !important;
+    padding-bottom: 20px !important;
+    font-weight: 600 !important;
+}
+
+
+.client > .row > .col-2 > .ceo{
+    display: flex !important;
+    align-items: center !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+}
+
+
+.client > .row > .col-2 > .ceo h4, p ,ul{
+    position: initial !important;
+}
+
+
+.client > .row > .col-2  ul{
+    margin-left: 20px !important;
+}
+
+
+
+/*  ========= faq starts ========== */
+
+.faq > .container > h2 {
+    font-weight: 600 !important;
+    text-align: center !important;
+    font-size: inherit !important;
+    line-height: inherit !important;
+    padding-top: 50px !important;
+    padding-bottom: 20px !important;
+}
+
+.faq > .container > p{
+    text-align: center !important;
+    font-size: inherit !important;
+    line-height: inherit !important;
+}
+
+.accordian-item {
+    padding: 20px !important;
+}
+
+
+.accordian-link{
+    font-size: initial !important;
+}
+
+.answer{
+    overflow: unset !important;
+    overflow-x: hidden !important;
+}
+
+
+.add, .remove{
+    font-size: 40px !important;
+}
+
+
+/* ===== download starts -===== */
+
+.download> .row > .col-2 h2{
+    font-weight: 600 !important;
+    text-align: center !important;
+    font-size: inherit !important;
+    line-height: inherit !important;
+    padding-top: 50px !important;
+    padding-bottom: 20px !important;
+}
+
+.download> .row > .col-2 {
+    flex-basis: 100% !important;
+}
+
+.download> .row > .col-2 > ul{
+    justify-content: center;
+    flex-wrap: nowrap !important;
+}
+
+
+.download > .row > .col-2:nth-child(2) img {
+    margin-bottom: -105px !important;
+}
+
+
+
+
+/* =======  footer starts -====== */
+
+
+footer img{
+    width: 150px !important;
+}
+
+footer ul li a ion-icon {
+    font-size: 30px !important;
+}
+
+
+footer p{
+    padding: 10px !important ;
+}
+
+
+}
+
+
+
+@media screen and (max-width:370px){
+
+header .logo img{
+    width: 100px;
+}
+
+.row{
+    padding: 0 25px !important;
+    display: flex ;
+    justify-content: center !important;
+}
+
+.navbar nav ul {
+    position: absolute !important;
+    top: 30px !important;
+    left: -35px;
+    background-color: rgb(253, 229, 180);
+    z-index: 22;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.navbar nav ul li{
+    margin-right: 0 !important;
+}
+
+nav > ul > li:hover::after{
+    max-width: 50% !important;
+}
+
+
+nav > ul > li:last-child {
+    margin: auto !important;
+    margin-bottom: 10px !important;
+    padding: 5px !important;
+}
+
+
+nav .menu-icon{
+    position: absolute !important;
+    top: -25px !important;
+    right: 0;
+}
+
+header .col-2{
+    flex-basis: 100% !important;
+    min-width: 200px !important;
+    padding: 0 !important;
+}
+
+header .col-2:nth-child(1) img{
+    padding: 0 !important;
+}
+
+
+
+header .col-2:nth-child(2) img{
+    transform: translateX(2px) !important;
+    max-width: 100%;
+    animation: none !important;
+}
+
+header .col-2 h1{
+    font-size: 35px !important;
+    line-height: 40px !important;
+    text-align: center !important;
+}
+
+
+header .col-2 p{
+    text-align: center !important;
+    padding-top: 20px !important;
+}
+
+
+header .col-2 ul li{
+    margin: 0 !important;
+    padding: 5px !important;
+    text-align: center;
+    font-size: 14px !important;
+    line-height: 15px;
+}
+
+header .col-2 ul li a .fa{
+    font-size: 12px !important;
+}
+
+
+/* === main-top starts ====  */
+
+.main-top .small-container p{
+    padding: 60px 0 30px !important;
+}
+
+.col-5{
+    min-width: 100px !important;
+    flex-basis: 50% !important;
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.col-5 img{
+    margin-bottom: 40px !important;
+}
+
+
+/* ------  features starts -------- */
+
+.features .col-3 {
+    flex-basis: 100% !important;
+}
+
+.features .col-3 > img{
+    height: auto  !important;
+}
+
+.features .col-3 > h2, p , h3{
+    text-align: center !important;
+    padding: 18px 0 !important;
+    line-height: initial !important;
+    font-size: initial !important;
+}
+
+.features .col-3 .items {
+    display: flex;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.features .col-3 .items .img img{
+    margin-right: 0 !important;
+    margin-top: 15px !important;
+}
+
+/* --------- jackpots starts ----------- */
+
+.jackpots .row .col h2{
+    text-align: center !important;
+    line-height: 50px !important;
+    padding-top: 60px;
+    padding-bottom: 20px !important;
+    padding-right: 0 !important;
+    font-size: initial !important;
+    line-height: initial !important;
+}
+
+.jackpots .row .col{
+    display: flex !important;
+    justify-content: center !important;
+    padding-top: 50px !important;
+}
+
+.jackpots .row .col div {
+    flex-basis: 100%  !important;
+}
+
+.jackpots .row .col:nth-child(1) div:nth-child(2){
+    text-align: center !important;
+    padding-top: 20px;
+    padding-left: 0 !important;
+    border-top: 1px solid #616368;
+    border-left: none !important;
+
+}
+
+
+.jackpots .row .col .col-3{
+    display: flex !important;
+    justify-content: center !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    margin-top: 20px !important;
+}
+
+.jackpots .row .col .col-2{
+    flex-basis: 100% !important;
+    padding: 0 !important;
+}
+
+
+.jackpots .row .col .col-2 {
+    display: flex;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+
+/* ---- -services starts ------- */
+
+.services > .container{
+    padding: 0 25px;
+}
+
+.services > .container > h2{
+    font-size: inherit !important;
+    line-height: inherit !important;
+    padding-top: 50px !important;
+    padding-bottom: 20px !important
+}
+
+
+.services > .container .row{
+    padding: 0 !important;
+}
+
+.services > .container .row .col-6{
+    flex-basis: 100% !important;
+}
+
+.services > .container .row .col-6 img{
+    margin-top: 40px !important;
+}
+
+
+/* ------ plan starts ------- */
+
+.plan .container{
+    padding: 0 25px !important ;
+}
+
+.plan .container h2, p{
+    text-align: center !important;
+    font-size: initial !important;
+    line-height: initial !important;
+    padding-left: 0 !important;
+}
+
+.plan .row .col-2, .col-4 {
+    flex-basis: 100% !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.plan .row .col-2:nth-child(2) img{
+    height: auto !important;
+}
+
+.plan > .container > ul{
+    display: flex !important;
+    justify-content: center !important ;
+}
+
+.plan > .container > ul li a{
+    margin-left: 0 !important;
+}
+
+
+/*  ---------  cost starts ------- */
+
+.cost .container{
+    padding: 0 25px !important ;
+}
+
+
+.cost .container h2, p{
+    text-align: center !important;
+    font-size: initial !important;
+    line-height: initial !important;
+    padding-left: 0 !important;
+}
+
+.cost > .container > ul > li > div{
+    padding: 10px !important;
+}
+
+.cost > .container > .row > .col-2{
+    flex-basis: 100% ;
+    margin-right: 0 !important;
+}
+
+.cost > .container  .row  .col-2    h4{
+    font-size: 30px !important;
+}
+
+.cost > .container  .row  .col-2    p, span{
+    font-size: initial !important;
+    line-height: initial !important;
+}
+
+
+
+
+
+
+/* ====== client starts ======== */
+
+.client .row .col-2 {
+    flex-basis: 100% !important;
+    padding: 0 !important;
+    display: flex ;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.client .row .col-2 h2{
+    text-align: center !important;
+    font-size: inherit !important;
+    line-height: inherit !important;
+    padding-top: 50px !important;
+    padding-bottom: 20px !important;
+    font-weight: 600 !important;
+}
+
+
+.client > .row > .col-2 > .ceo{
+    display: flex !important;
+    align-items: center !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+}
+
+
+.client > .row > .col-2 > .ceo h4, p ,ul{
+    position: initial !important;
+}
+
+
+.client > .row > .col-2  ul{
+    margin-left: 20px !important;
+}
+
+
+
+/*  ========= faq starts ========== */
+
+.faq > .container > h2 {
+    font-weight: 600 !important;
+    text-align: center !important;
+    font-size: inherit !important;
+    line-height: inherit !important;
+    padding-top: 50px !important;
+    padding-bottom: 20px !important;
+}
+
+.faq > .container > p{
+    text-align: center !important;
+    font-size: inherit !important;
+    line-height: inherit !important;
+}
+
+.accordian-item {
+    padding: 20px !important;
+}
+
+
+.accordian-link{
+    font-size: initial !important;
+}
+
+.answer{
+    overflow: unset !important;
+    overflow-x: hidden !important;
+}
+
+
+.add, .remove{
+    font-size: 40px !important;
+}
+
+
+/* ===== download starts -===== */
+
+.download> .row > .col-2 h2{
+    font-weight: 600 !important;
+    text-align: center !important;
+    font-size: inherit !important;
+    line-height: inherit !important;
+    padding-top: 50px !important;
+    padding-bottom: 20px !important;
+}
+
+.download> .row > .col-2 {
+    flex-basis: 100% !important;
+}
+
+.download> .row > .col-2 > ul{
+    justify-content: center;
+    flex-wrap: nowrap !important;
+}
+
+
+.download > .row > .col-2:nth-child(2) img {
+    margin-bottom: -102px !important;
+}
+
+
+
+
+/* =======  footer starts -====== */
+
+
+footer img{
+    width: 150px !important;
+}
+
+footer ul li a ion-icon {
+    font-size: 30px !important;
+}
+
+
+footer p{
+    padding: 10px !important ;
+}
+
+
+
+}
+
+
+@media only screen and (max-width:330px){
+ 
+
+
+/* ----- header starts ----- */
+
+header .logo img{
+    width: 100px;
+}
+
+.row{
+    padding: 0 25px !important;
+    display: flex ;
+    justify-content: center !important;
+}
+
+.navbar nav ul {
+    position: absolute !important;
+    top: 30px !important;
+    left: -35px;
+    background-color: rgb(253, 229, 180);
+    z-index: 22;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.navbar nav ul li{
+    margin-right: 0 !important;
+}
+
+nav > ul > li:hover::after{
+    max-width: 50% !important;
+}
+
+
+nav > ul > li:last-child {
+    margin: auto !important;
+    margin-bottom: 10px !important;
+    padding: 5px !important;
+}
+
+
+nav .menu-icon{
+    position: absolute !important;
+    top: -25px !important;
+    right: 0;
+}
+
+header .col-2{
+    flex-basis: 100% !important;
+    min-width: 200px !important;
+    padding: 0 !important;
+}
+
+header .col-2:nth-child(1) img{
+    padding: 0 !important;
+}
+
+
+
+header .col-2:nth-child(2) img{
+    transform: translateX(2px) !important;
+    max-width: 100%;
+    animation: none !important;
+}
+
+header .col-2 h1{
+    font-size: 35px !important;
+    line-height: 40px !important;
+    text-align: center !important;
+}
+
+
+header .col-2 p{
+    text-align: center !important;
+    padding-top: 20px !important;
+}
+
+
+header .col-2 ul li{
+    margin: 0 !important;
+    padding: 5px !important;
+    text-align: center;
+    font-size: 14px !important;
+    line-height: 15px;
+}
+
+header .col-2 ul li a .fa{
+    font-size: 12px !important;
+}
+
+
+/* === main-top starts ====  */
+
+.main-top .small-container p{
+    padding: 60px 0 30px !important;
+}
+
+.col-5{
+    min-width: 100px !important;
+    flex-basis: 50% !important;
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.col-5 img{
+    margin-bottom: 40px !important;
+}
+
+
+/* ------  features starts -------- */
+
+.features .col-3 {
+    flex-basis: 100% !important;
+}
+
+.features .col-3 > img{
+    height: auto  !important;
+}
+
+.features .col-3 > h2, p , h3{
+    text-align: center !important;
+    padding: 18px 0 !important;
+    line-height: initial !important;
+    font-size: initial !important;
+}
+
+.features .col-3 .items {
+    display: flex;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.features .col-3 .items .img img{
+    margin-right: 0 !important;
+    margin-top: 15px !important;
+}
+
+/* --------- jackpots starts ----------- */
+
+.jackpots .row .col h2{
+    text-align: center !important;
+    line-height: 50px !important;
+    padding-top: 60px;
+    padding-bottom: 20px !important;
+    padding-right: 0 !important;
+    font-size: initial !important;
+    line-height: initial !important;
+}
+
+.jackpots .row .col{
+    display: flex !important;
+    justify-content: center !important;
+    padding-top: 50px !important;
+}
+
+.jackpots .row .col div {
+    flex-basis: 100%  !important;
+}
+
+.jackpots .row .col:nth-child(1) div:nth-child(2){
+    text-align: center !important;
+    padding-top: 20px;
+    padding-left: 0 !important;
+    border-top: 1px solid #616368;
+    border-left: none !important;
+
+}
+
+
+.jackpots .row .col .col-3{
+    display: flex !important;
+    justify-content: center !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    margin-top: 20px !important;
+}
+
+.jackpots .row .col .col-2{
+    flex-basis: 100% !important;
+    padding: 0 !important;
+}
+
+
+.jackpots .row .col .col-2 {
+    display: flex;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+
+/* ---- -services starts ------- */
+
+.services > .container{
+    padding: 0 25px;
+}
+
+.services > .container > h2{
+    font-size: inherit !important;
+    line-height: inherit !important;
+    padding-top: 50px !important;
+    padding-bottom: 20px !important
+}
+
+
+.services > .container .row{
+    padding: 0 !important;
+}
+
+.services > .container .row .col-6{
+    flex-basis: 100% !important;
+}
+
+.services > .container .row .col-6 img{
+    margin-top: 40px !important;
+}
+
+
+/* ------ plan starts ------- */
+
+.plan .container{
+    padding: 0 25px !important ;
+}
+
+.plan .container h2, p{
+    text-align: center !important;
+    font-size: initial !important;
+    line-height: initial !important;
+    padding-left: 0 !important;
+}
+
+.plan .row .col-2, .col-4 {
+    flex-basis: 100% !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+
+.plan > .container > ul{
+    display: flex !important;
+    justify-content: center !important ;
+}
+
+.plan > .container > ul li a{
+    margin-left: 0 !important;
+}
+
+.plan .row .col-2:nth-child(2) img{
+    height: auto !important;
+}
+
+
+/*  ---------  cost starts ------- */
+
+.cost .container{
+    padding: 0 25px !important ;
+}
+
+
+.cost .container h2, p{
+    text-align: center !important;
+    font-size: initial !important;
+    line-height: initial !important;
+    padding-left: 0 !important;
+}
+
+.cost > .container > ul > li > div{
+    padding: 10px !important;
+}
+
+.cost > .container > .row > .col-2{
+    flex-basis: 100% ;
+    margin-right: 0 !important;
+}
+
+.cost > .container  .row  .col-2    h4{
+    font-size: 30px !important;
+}
+
+.cost > .container  .row  .col-2    p, span{
+    font-size: initial !important;
+    line-height: initial !important;
+}
+
+
+
+
+
+
+/* ====== client starts ======== */
+
+.client .row .col-2 {
+    flex-basis: 100% !important;
+    padding: 0 !important;
+    display: flex ;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.client .row .col-2 h2{
+    text-align: center !important;
+    font-size: inherit !important;
+    line-height: inherit !important;
+    padding-top: 50px !important;
+    padding-bottom: 20px !important;
+    font-weight: 600 !important;
+}
+
+
+.client > .row > .col-2 > .ceo{
+    display: flex !important;
+    align-items: center !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+}
+
+
+.client > .row > .col-2 > .ceo h4, p ,ul{
+    position: initial !important;
+}
+
+
+.client > .row > .col-2  ul{
+    margin-left: 20px !important;
+}
+
+
+
+/*  ========= faq starts ========== */
+
+.faq > .container > h2 {
+    font-weight: 600 !important;
+    text-align: center !important;
+    font-size: inherit !important;
+    line-height: inherit !important;
+    padding-top: 50px !important;
+    padding-bottom: 20px !important;
+}
+
+.faq > .container > p{
+    text-align: center !important;
+    font-size: inherit !important;
+    line-height: inherit !important;
+}
+
+.accordian-item {
+    padding: 20px !important;
+}
+
+
+.accordian-link{
+    font-size: initial !important;
+}
+
+.answer{
+    overflow: unset !important;
+    overflow-x: hidden !important;
+}
+
+
+.add, .remove{
+    font-size: 40px !important;
+}
+
+
+/* ===== download starts -===== */
+
+.download> .row > .col-2 h2{
+    font-weight: 600 !important;
+    text-align: center !important;
+    font-size: inherit !important;
+    line-height: inherit !important;
+    padding-top: 50px !important;
+    padding-bottom: 20px !important;
+}
+
+.download> .row > .col-2 {
+    flex-basis: 100% !important;
+}
+
+.download> .row > .col-2 > ul{
+    justify-content: center;
+    flex-wrap: nowrap !important;
+}
+
+
+.download > .row > .col-2:nth-child(2) img {
+    margin-bottom: -90px !important;
+}
+
+
+
+
+/* =======  footer starts -====== */
+
+
+footer img{
+    width: 150px !important;
+}
+
+footer ul li a ion-icon {
+    font-size: 30px !important;
+}
+
+
+footer p{
+    padding: 10px !important ;
+}
+
+
+
+
+
+
+
+}
